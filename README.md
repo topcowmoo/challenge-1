@@ -11,4 +11,6 @@ This project was created as part of challenge 1 - code refactoring and website a
 
 ## Deployed Application
 
-Check out the deployed version of the application (https://github.com/topcowmoo/challenge-1).
+Check out the deployed version of the application (https://topcowmoo.github.io/challenge-1/).
+
+
