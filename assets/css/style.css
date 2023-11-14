@@ -88,6 +88,8 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #1B5B7E;
+    font-size: 26px;
+    text-align: center;
 }
 
 /* aside starts */
@@ -120,7 +122,7 @@ p {
     text-align: center;
 }
 
-/* .benefit-lead h2 {
+/* .benefit-lead {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -220,9 +222,9 @@ p {
 /* } */
 /* header starts */
 
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -252,7 +254,7 @@ p {
     text-align: center;
 }
 
-.footer h3 {
+.footer {
     font-size: 20px;
 }
 /* footer ends */
