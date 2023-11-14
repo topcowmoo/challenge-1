@@ -5,11 +5,10 @@
     padding: 0;
     margin: 0;
 }
-/* body */
+/* Elemental Selectors */
 body {
     background-color: #d9dcd6;
 }
-/* header starts */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,9 +46,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 
-    /* header ends */
 }
-/* paragraph */
+
 p {
     font-size: 16px;
 }
@@ -92,7 +90,6 @@ p {
     text-align: center;
 }
 
-/* aside starts */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -201,8 +198,6 @@ p {
     color: #ffffff;
 } */
 
-/* header */
-
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -220,7 +215,6 @@ p {
 .social-media-marketing img {
     max-height: 200px; */
 /* } */
-/* header starts */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -244,9 +238,6 @@ p {
     font-size: 36px;
 } */
 
-/* aside ends */
-
-/* footer begins */
 .footer {
     padding: 30px;
     clear: both;
@@ -257,4 +248,3 @@ p {
 .footer {
     font-size: 20px;
 }
-/* footer ends */
