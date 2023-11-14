@@ -13,4 +13,3 @@ This project was created as part of challenge 1 - code refactoring and website a
 
 Check out the deployed version of the application (https://topcowmoo.github.io/challenge-1/).
 
-
